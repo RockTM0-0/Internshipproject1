@@ -1,0 +1,2 @@
+The data set was too large so here's the link:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
